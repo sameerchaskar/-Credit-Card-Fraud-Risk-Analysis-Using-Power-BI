@@ -11,9 +11,9 @@ To help financial institutions identify fraud trends, assess risk, and take prev
 ✅ Drill-through and filtering interactivity
 ✅ Risk scoring for high-risk transaction detection
 ✅ Geo and Time-based visuals for fraud hotspots
+
 🎯 Outcome
 The dashboard helps teams:
-
 Identify suspicious behavior
 Visually analyze risk
 Make data-driven decisions to reduce financial losses
